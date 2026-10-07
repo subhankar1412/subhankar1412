@@ -134,7 +134,3 @@ I'm always happy to talk about backend architecture, AI agents, RAG and producti
   <a href="https://www.linkedin.com/in/subhankar-sen-70a4ba222/"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:subhankarsen1412@gmail.com"><img src="https://img.shields.io/badge/Send-an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+views&color=2F81F7&style=flat-square" alt="Profile views" />
-</p>
